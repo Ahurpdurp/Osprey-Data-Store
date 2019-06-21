@@ -33,13 +33,13 @@ namespace ConsultingCompany.IntegrationTests
         public void SuccessFullyAddClient()
         {
             Client newClient =
-                new Client() { CompanyName = "Tesla", ContactLastName = "Musk", ContactFirstName = "Elon" };
+                new Client() {ClientId = 4, CompanyName = "Tesla", ContactLastName = "Musk", ContactFirstName = "Elon", City = "Palo Alto", State = "CA", Zip = "94304", LastUpdated = DateTime.Now.ToString()};
             this._repository.Clients.Add(newClient);
             Assert.IsTrue(_repository.Clients.Count == 4);
 
             foreach (var client in this._repository.Clients)
             {
-                Console.WriteLine($"CompanyName: {client.CompanyName} Contact Name: {client.ContactFirstName} {client.ContactLastName}");
+                Console.WriteLine($"Client Id: {client.ClientId} CompanyName: {client.CompanyName} Contact Name: {client.ContactFirstName} {client.ContactLastName} Address: {client.City}, {client.State}, {client.Zip}");
             }
         }
 
