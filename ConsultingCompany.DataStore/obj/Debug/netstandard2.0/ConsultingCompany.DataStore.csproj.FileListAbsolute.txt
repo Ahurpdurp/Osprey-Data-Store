@@ -1,0 +1,12 @@
+C:\Users\ahurpdurp\Documents\Osprey Test\ConsultingOrganization\ConsultingCompany.DataStore\bin\Debug\netstandard2.0\ConsultingCompany.DataStore.deps.json
+C:\Users\ahurpdurp\Documents\Osprey Test\ConsultingOrganization\ConsultingCompany.DataStore\bin\Debug\netstandard2.0\ConsultingCompany.DataStore.dll
+C:\Users\ahurpdurp\Documents\Osprey Test\ConsultingOrganization\ConsultingCompany.DataStore\bin\Debug\netstandard2.0\ConsultingCompany.DataStore.pdb
+C:\Users\ahurpdurp\Documents\Osprey Test\ConsultingOrganization\ConsultingCompany.DataStore\bin\Debug\netstandard2.0\ConsultingCompany.Lib.dll
+C:\Users\ahurpdurp\Documents\Osprey Test\ConsultingOrganization\ConsultingCompany.DataStore\bin\Debug\netstandard2.0\ConsultingCompany.Lib.pdb
+C:\Users\ahurpdurp\Documents\Osprey Test\ConsultingOrganization\ConsultingCompany.DataStore\obj\Debug\netstandard2.0\ConsultingCompany.DataStore.csprojAssemblyReference.cache
+C:\Users\ahurpdurp\Documents\Osprey Test\ConsultingOrganization\ConsultingCompany.DataStore\obj\Debug\netstandard2.0\ConsultingCompany.DataStore.csproj.CoreCompileInputs.cache
+C:\Users\ahurpdurp\Documents\Osprey Test\ConsultingOrganization\ConsultingCompany.DataStore\obj\Debug\netstandard2.0\ConsultingCompany.DataStore.AssemblyInfoInputs.cache
+C:\Users\ahurpdurp\Documents\Osprey Test\ConsultingOrganization\ConsultingCompany.DataStore\obj\Debug\netstandard2.0\ConsultingCompany.DataStore.AssemblyInfo.cs
+C:\Users\ahurpdurp\Documents\Osprey Test\ConsultingOrganization\ConsultingCompany.DataStore\obj\Debug\netstandard2.0\ConsultingCompany.DataStore.csproj.CopyComplete
+C:\Users\ahurpdurp\Documents\Osprey Test\ConsultingOrganization\ConsultingCompany.DataStore\obj\Debug\netstandard2.0\ConsultingCompany.DataStore.dll
+C:\Users\ahurpdurp\Documents\Osprey Test\ConsultingOrganization\ConsultingCompany.DataStore\obj\Debug\netstandard2.0\ConsultingCompany.DataStore.pdb

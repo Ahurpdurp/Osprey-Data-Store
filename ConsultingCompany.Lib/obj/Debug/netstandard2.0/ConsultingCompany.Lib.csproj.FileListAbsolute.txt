@@ -1,0 +1,9 @@
+C:\Users\ahurpdurp\Documents\Osprey Test\ConsultingOrganization\ConsultingCompany.Lib\bin\Debug\netstandard2.0\ConsultingCompany.Lib.deps.json
+C:\Users\ahurpdurp\Documents\Osprey Test\ConsultingOrganization\ConsultingCompany.Lib\bin\Debug\netstandard2.0\ConsultingCompany.Lib.dll
+C:\Users\ahurpdurp\Documents\Osprey Test\ConsultingOrganization\ConsultingCompany.Lib\bin\Debug\netstandard2.0\ConsultingCompany.Lib.pdb
+C:\Users\ahurpdurp\Documents\Osprey Test\ConsultingOrganization\ConsultingCompany.Lib\obj\Debug\netstandard2.0\ConsultingCompany.Lib.csprojAssemblyReference.cache
+C:\Users\ahurpdurp\Documents\Osprey Test\ConsultingOrganization\ConsultingCompany.Lib\obj\Debug\netstandard2.0\ConsultingCompany.Lib.csproj.CoreCompileInputs.cache
+C:\Users\ahurpdurp\Documents\Osprey Test\ConsultingOrganization\ConsultingCompany.Lib\obj\Debug\netstandard2.0\ConsultingCompany.Lib.AssemblyInfoInputs.cache
+C:\Users\ahurpdurp\Documents\Osprey Test\ConsultingOrganization\ConsultingCompany.Lib\obj\Debug\netstandard2.0\ConsultingCompany.Lib.AssemblyInfo.cs
+C:\Users\ahurpdurp\Documents\Osprey Test\ConsultingOrganization\ConsultingCompany.Lib\obj\Debug\netstandard2.0\ConsultingCompany.Lib.dll
+C:\Users\ahurpdurp\Documents\Osprey Test\ConsultingOrganization\ConsultingCompany.Lib\obj\Debug\netstandard2.0\ConsultingCompany.Lib.pdb
